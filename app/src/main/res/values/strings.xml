@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RxNetworkEvent-Sample</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_pwd">Enter password</string>
+    <string name="hint_email">Enter email</string>
+
+
+    <string name="generic_http_error_title">Error Occurred</string>
+    <string name="generic_http_error_desc">Server is not available. Try again after sometime</string>
+    <string name="generic_no_internet_desc">Oops...You do not seem to have a proper internet connection. Please try again after connecting to a valid internet connection</string>
+    <string name="generic_no_internet_title">No Internet Connection</string>
+    <string name="error_login_expired">Your session has expired. Please login again</string>
+</resources>
