@@ -1,5 +1,6 @@
 # RxNetworkEvent-Example
 
+The Kotlin version of the project can be found under <i>migrate_to_kotlin</i> branch.
 
 I recently had a requirement to handle error scenarios in apis. I have rest apis in the app and needed to handle no internet/ no service available / unauthorised errors in a generic way. i.e. I wanted to display an error dialog every time any api in the app throws a 503 or 401 error response.
 
